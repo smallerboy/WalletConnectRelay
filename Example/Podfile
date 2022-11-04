@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WalletConnectRelay_Tests' do
+  pod 'WalletConnectRelay', :path => '../'
+  
+  
+end
