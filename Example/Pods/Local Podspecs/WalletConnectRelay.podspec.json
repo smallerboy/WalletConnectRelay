@@ -1,0 +1,22 @@
+{
+  "name": "WalletConnectRelay",
+  "version": "0.1.0",
+  "summary": "A short description of WalletConnectRelay.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/david zhang,/WalletConnectRelay",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "david zhang,": "zmao008@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/david zhang,/WalletConnectRelay.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "WalletConnectRelay/Classes/**/*"
+}
