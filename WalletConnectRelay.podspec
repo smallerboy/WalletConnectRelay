@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'WalletConnectRelay'
-  s.version          = '1.0.0'
+  s.version          = '1.0.2'
   s.summary          = 'WalletConnectRelay library'
 
   s.description      = 'walletConnectV2 support library'
