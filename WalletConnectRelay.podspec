@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'WalletConnectRelay'
-  s.version          = '1.0.2'
+  s.version          = '1.0.3'
   s.summary          = 'WalletConnectRelay library'
 
   s.description      = 'walletConnectV2 support library'
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.source_files = 'WalletConnectRelay/Classes/**/*'
 
-  s.dependency 'WalletConnectKMS', '~> 1.0.0'
+  s.dependency 'WalletConnectKMS', '~> 1.0.1'
 
   s.swift_version = '5'
   
